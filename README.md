@@ -35,8 +35,9 @@ We explore the boundaries of AI, Software Engineering, and Modern Web Developmen
 We are a talent-driven group available for technical consulting and rapid product prototyping. If you have a problem that needs an innovative solution, let’s build it together.
 
 📩 **Connect with us :** recurrex.ofc@gmail.com
+
 🌐 **LinkedIn :** [Link to Recurrex Page]  
-📍 **Based in :** Kolkata, India.
+📍 **Based in :** India.
 
 ---
 <p align="center">
