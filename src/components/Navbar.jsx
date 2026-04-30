@@ -6,7 +6,7 @@ const Navbar = ({ activeTab, setActiveTab }) => {
   return (
     <nav className="fixed top-0 w-full z-50 bg-slate-950/80 backdrop-blur-md border-b border-white/10 px-8 py-4">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
-        <div className="text-2xl font-black tracking-tighter text-cyan-500">RECURREX</div>
+        <div className="text-2xl font-black tracking-tighter text-cyan-500">Recurrex</div>
         <div className="hidden md:flex space-x-6 text-xs font-mono uppercase tracking-widest">
           {tabs.map((tab) => (
             <button 
